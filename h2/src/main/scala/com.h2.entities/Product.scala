@@ -1,3 +1,5 @@
+package main.scala.com.h2.entities
+
 import java.util.UUID
 
 abstract class Product {
