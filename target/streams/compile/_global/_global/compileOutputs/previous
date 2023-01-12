@@ -1,1 +1,1 @@
-["sbt.Task[scala.collection.Seq[java.nio.file.Path]]",["D:\\Proyectos\\test-banco\\target\\streams\\compile\\compileOutputs\\_global\\streams\\inc_compile_2.12.zip"]]
+["sbt.Task[scala.collection.Seq[java.nio.file.Path]]",["/home/julio/Proyectos/Plural/Test-Bank/target/scala-2.12/zinc/inc_compile_2.12.zip"]]
